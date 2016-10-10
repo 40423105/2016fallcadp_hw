@@ -1,7 +1,4 @@
 # 2016fallcpa
-2016fall 計算機程式課程一甲評量倉儲
+40423105 四設計二甲 王奕智的作業倉儲
 
-https://mdecourse.github.io/2016fallcpa
-
-https://mdecourse.github.io/2016fallcpa/blog
 
