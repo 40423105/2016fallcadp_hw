@@ -16,16 +16,16 @@
 &lt;p&gt;當我們將鼠標懸停在草圖中的任何實體，約束或其他對像上時，該對象將以黃色突出顯示。例如，當我們將鼠標懸停在其上時，繪製為虛線正方形的XY平面將突出顯示。 YZ和ZX平面最初看起來像虛線，因為它們被邊緣觀看;但是當我們把鼠標放在他們上面時，它們仍然顯示為黃色。同樣可以突出顯示X，Y和Z軸（以箭頭繪製）或原點（像所有點都繪製為綠色方塊）。&lt;/p&gt;
 &lt;h4&gt;Extrude (平行長出或除料)&lt;/h4&gt;
 &lt;p&gt;&lt;p&gt;STL 格式&lt;/p&gt;
-&lt;p&gt;範例:平行長出&lt;/p&gt;
-&lt;iframe src="./../data/threejs/4042310511241.html" width="800" height="600"&gt;&lt;/iframe&gt;
+&lt;p&gt;範例:平行長出&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;STL 格式&lt;/p&gt;
+
 &lt;p&gt;範例:除料&lt;/p&gt;
-&lt;iframe src="./../w7/404231051124-3.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
 &lt;h4&gt;Lathe (旋轉繞行長出或除料)&lt;/h4&gt;
 &lt;h4&gt;Export Triangle Mesh&lt;/h4&gt;
 &lt;p&gt;STL 格式&lt;/p&gt;
 &lt;p&gt;three.js&lt;/p&gt;
-&lt;iframe src="./../w7/404231051124.html" width="800" height="600"&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/threejs/404231051124.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;2. Assembly (零件組立)&lt;/h3&gt;
 &lt;h3&gt;3. Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/h3&gt;
