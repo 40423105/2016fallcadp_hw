@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-12-01T14:15:32-00:00</lastmod>
+<lastmod>2016-12-01T22:26:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-12-01T14:15:32-00:00</lastmod>
+<lastmod>2016-12-01T22:26:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-12-01T14:15:32-00:00</lastmod>
+<lastmod>2016-12-01T22:26:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-12-01T14:15:32-00:00</lastmod>
+<lastmod>2016-12-01T22:26:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2016-12-01T13:57:31+08:00</lastmod>
+<lastmod>2016-12-01T22:20:32+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./40423105-121zuo-ye.html</loc>
+<lastmod>2016-12-01T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/hw.html</loc>
-<lastmod>2016-11-24T11:00:00+08:06</lastmod>
+<lastmod>2016-12-01T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,14 +103,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/zuo-ye.html</loc>
-<lastmod>2016-11-24T11:00:00+08:06</lastmod>
+<lastmod>2016-12-01T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40423105.html</loc>
-<lastmod>2016-11-24T11:00:00+08:06</lastmod>
+<lastmod>2016-12-01T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
